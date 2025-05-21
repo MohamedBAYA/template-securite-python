@@ -2,7 +2,7 @@
 name = "template-code"
 version = "0.1.0"
 description = ""
-authors = ["Thibaud ROBIN <trobin@esgi.com>"]
+authors = ["Jordan AKOHA Mohamed BAYA"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -12,6 +12,12 @@ scapy = "^2.6.0"
 pygal = "^3.0.5"
 fpdf2 = "^2.8.1"
 pytest = "^8.3.5"
+pytesseract = "^0.3.10"
+pillow = "^11.1.0"
+beautifulsoup4 = "^4.13.4"
+selenium = "^4.32.0"
+
+
 
 [build-system]
 requires = ["poetry-core"]
