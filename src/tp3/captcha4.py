@@ -1,4 +1,4 @@
-
+# flag: 7629
 
 import requests
 from PIL import Image
